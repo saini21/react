@@ -1,0 +1,13 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.completed{
+	color: #004ea6;
+}
+.pending{
+	color: #ff0000;
+}
+.nav-sidebar li { width:100%; cursor: pointer; margin: 5px 0; }
